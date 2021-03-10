@@ -20,7 +20,7 @@
     "singleQuote": true,
     "trailingComma": "all"
   },
-  "devDependencies": {
+  "dependencies": {
     "@actions/core": "^1.2.0",
     "@actions/github": "^1.1.0",
     "@types/jest": "^24.0.22",
